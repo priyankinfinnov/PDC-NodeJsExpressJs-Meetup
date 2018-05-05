@@ -1,4 +1,12 @@
 /*
+//------------------------------------READ ME
+These are code examples used for a PDC Meetup to explain ExpressJS
+Find the related slides at https://docs.google.com/presentation/d/1GgIRrRRvS6ZTcIPYTsGZ8p_WwlHUQHlsZfqI_vm2OqI/edit?usp=sharing
+*/
+
+
+
+/*
 //------------------------------------Hello World
 var express = require('express');
 var app = express();
@@ -152,7 +160,7 @@ app.listen(3000);
 */
 /*
 //------------------------------------Authentication
-//THIS CODE IS NOT RUNNABLE
+//THIS CODE IS NOT RUNNABLE (replace the 'user' variable you your user)
 app.post('/login', function(req, res){
   //do your db queries and get the user in memory
   req.session.user = user;
