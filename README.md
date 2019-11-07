@@ -2,7 +2,7 @@
 
 I spoke at a meetup on Nodejs ExpressJs hosted by Pune Developer Community. This is the code repo i used to demo basic of Nodejs.
 
-The slides can be found at https://docs.google.com/presentation/d/1GgIRrRRvS6ZTcIPYTsGZ8p_WwlHUQHlsZfqI_vm2OqI/edit?usp=sharing
+Link to Slides - https://docs.google.com/presentation/d/1GgIRrRRvS6ZTcIPYTsGZ8p_WwlHUQHlsZfqI_vm2OqI/edit?usp=sharing
 
 Pune Developer Community - https://www.meetup.com/Pune-Developers-Community/
 
